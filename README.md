@@ -1,2 +1,2 @@
 # GI-predictor
-Training deep learning model on gene pair Perturb-seq data to predict gene interactions 
+Deep learning model on gene pair perturbation data to predict gene interactions
